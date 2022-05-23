@@ -1,0 +1,54 @@
+button {
+    border-color: rgb(173, 3, 3);
+    background-color: rgb(173, 3, 3);
+    box-shadow: 10px 10px 5px rgb(29, 29, 29);
+    transition: 0.6s;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    border: 0;
+    border-style: solid;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: rgb(107, 15, 15);
+  }
+
+  body {
+    background-color: rgb(51, 49, 49);
+  }
+
+  h1 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    background-color:rgb(29, 29, 29);
+    color: rgb(173, 3, 3);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 10px 10px 10px rgb(9, 9, 9);
+  }
+  
+  #container {
+    text-align: center;
+  }
+
+  #center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .SUSSY {
+    margin: 0 auto 
+  }
